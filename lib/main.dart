@@ -43,19 +43,19 @@ class _MyHomePageState extends State<MyHomePage> {
     {
       'name': 'Палто',
       'img': 'assets/images/palt.jpg',
-      'desc': 'Палто убаво преубао.',
+      'desc': 'Палто убаво преубаво.',
       'price': '8750 ден'
     },
     {
       'name': 'Панталони',
       'img': 'assets/images/pant.jpg',
-      'desc': 'Класични тексас панталони.',
-      'price': '1200 ден'
+      'desc': 'Тест текст тест текст.',
+      'price': '2840 ден'
     },
     {
-      'name': 'Јакна',
+      'name': 'Поло',
       'img': 'assets/images/polt.jpg',
-      'desc': 'Топла зимска јакна.',
+      'desc': 'Тест текст тест текст.',
       'price': '2500 ден'
     },
   ];
